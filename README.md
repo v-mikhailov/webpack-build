@@ -1,6 +1,6 @@
 ## Webpack config
 ***
-v0.0.1
+v0.0.2
 ## Возможности
 ***
 * babel
@@ -8,3 +8,10 @@ v0.0.1
 * Autoprefixer
 * Hot reload
 * Gh-pages deploy
+## Локальный запуск
+***
+1. Склонировать репозиторий
+2.     npm install
+3. Запустить локальный сервер 
+
+       npm run dev
